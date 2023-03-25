@@ -1,0 +1,2 @@
+run Appium server      appium -p 4724
+in Appium inspector add remote path /wd/hub
